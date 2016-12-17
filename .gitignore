@@ -1,0 +1,6 @@
+venv3/*
+.DS_Store
+*.pyc
+config.py
+flask
+.git
